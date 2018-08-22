@@ -45,15 +45,15 @@
 //   NEO_RGBW    Pixels are wired for RGBW bitstream (NeoPixel RGBW products)
 
 // ===================== DISPLAY CONFIG ==================== //
-#define USE_DISPLAY false // default display setting
+#define USE_DISPLAY true // default display setting
 
 /* = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
     Adjust the pins to match your setup
     Comment out the buttons you don't use.
    = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = */
-#define BUTTON_UP 14
+#define BUTTON_UP 13
 #define BUTTON_DOWN 12
-#define BUTTON_A 13
+#define BUTTON_A 14
 
 // #define BUTTON_LEFT 12
 // #define BUTTON_RIGHT 13
